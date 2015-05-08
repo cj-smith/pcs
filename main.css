@@ -1,0 +1,19 @@
+.container {
+	color: black;
+	margin-left: 30%;
+	background-color: #f5f5f5;
+	padding: 10px;
+}
+
+.container img {
+	width: 40%;
+}
+
+header {
+	background-color: #f5f5f5;
+}
+
+footer {
+	background-color: #f5f5f5;
+	text-align: center;
+}
